@@ -1,0 +1,35 @@
+/* Resetando html*/
+*{  background-color: #f39191;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+/*
+*Container da página
+*/
+div.container{
+    max-width: 800px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color: #7c0000;
+}
+
+#p1{
+    font-family: Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 25px;
+    color:#722121 ;
+}
+
+#p2{
+    font-family:Helvetica, sans-serif;
+    text-align: justify;
+    font-size:20px;
+    color:#ff1201;
+}
+abbr{
+    cursor: pointer;
+}
